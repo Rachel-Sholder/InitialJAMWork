@@ -52,7 +52,6 @@ Where:
 ## 🌐 Interactive Tool
 
 An interactive JAM simulation tool is available:
-
 👉 https://jam-simulation.streamlit.app
 
 Explore the underlying code here:  
@@ -63,7 +62,6 @@ The tool enables real-time exploration of:
 - Launch rate sensitivity  
 - Cascade thresholds and stability (Rₑ(t))  
 
-This provides an intuitive interface for understanding the nonlinear dynamics of orbital debris proliferation.
 ---
 
 ## 📁 Repository Structure

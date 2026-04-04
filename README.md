@@ -10,7 +10,7 @@ This repository contains code, simulations, and supporting materials for the pap
 
 The accumulation of space debris in Low Earth Orbit (LEO) poses a growing threat to satellite infrastructure, human spaceflight, and future missions.
 
-This project introduces the **Junk Accumulation Model (JAM)**—a novel adaptation of the classical **SIR (Susceptible–Infectious–Removed)** epidemiological framework to model space debris dynamics.
+This project introduces the **Junk Accumulation Model (JAM)**—a novel adaptation of the classical **SIR (Susceptible–Infectious–Removed)** epidemiological framework-to model space debris dynamics.
 
 - **S (Susceptible):** Intact satellites and objects that can be hit  
 - **I (Infectious):** Debris fragments capable of causing collisions  
@@ -26,9 +26,9 @@ JAM provides a **tractable, interpretable framework** to:
 ## 🧠 Model Formulation
 
 The JAM model is governed by the system of ODEs:
-dS/dt = Λ − βSI − μₛS
-dI/dt = (1 + θ)βSI − (γ + μᵢ)I
-dR/dt = γI + μₛS + μᵢI
+- dS/dt = Λ − βSI − μₛS
+- dI/dt = (1 + θ)βSI − (γ + μᵢ)I
+- dR/dt = γI + μₛS + μᵢI
 
 Where:
 - Λ = launch rate  

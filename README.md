@@ -52,7 +52,6 @@ Where:
 ## 🌐 Interactive Tool
 
 An interactive JAM simulation tool (and underlying code) is available:
-
 👉 **Interactive JAM tool:** https://jam-simulation.streamlit.app
 🔗 **Underlying Code:** https://github.com/Rachel-Sholder/JAM-Streamlit
 

@@ -46,6 +46,24 @@ Where:
 - Without intervention → **runaway debris growth (Kessler Syndrome)**  
 - Sustained ADR (~5%+) can suppress debris proliferation  
 
+⚠️ This repository is part of academic research and is intended for exploratory and educational purposes.
+
+---
+## 🌐 Interactive Tool
+
+An interactive JAM simulation tool is available:
+
+👉 https://jam-simulation.streamlit.app
+
+Explore the underlying code here:  
+🔗 https://github.com/Rachel-Sholder/JAM-Streamlit
+
+The tool enables real-time exploration of:
+- Active Debris Removal (ADR) scenarios  
+- Launch rate sensitivity  
+- Cascade thresholds and stability (Rₑ(t))  
+
+This provides an intuitive interface for understanding the nonlinear dynamics of orbital debris proliferation.
 ---
 
 ## 📁 Repository Structure
@@ -53,7 +71,7 @@ Where:
 - **01 Simulation Code:** Core JAM implementation and reproduction of paper visuals
 - **02 Historical Consistency:** JAM simulation of historical data (see Appendix A)
 - **03 Figures:** Historical data figures (see Appendix A)
-- **Data: CSV and PDF** Supporting datasets  
+- **Data:** Supporting datasets (CSV and PDF)
 
 ---
 

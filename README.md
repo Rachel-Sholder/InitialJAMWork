@@ -51,16 +51,9 @@ Where:
 ---
 ## 🌐 Interactive Tool
 
-An interactive JAM simulation tool is available:
-👉 https://jam-simulation.streamlit.app
-
-Explore the underlying code here:  
-🔗 https://github.com/Rachel-Sholder/JAM-Streamlit
-
-The tool enables real-time exploration of:
-- Active Debris Removal (ADR) scenarios  
-- Launch rate sensitivity  
-- Cascade thresholds and stability (Rₑ(t))  
+An interactive JAM simulation tool (and underlying code) is available:
+👉 **Interactive JAM tool:** https://jam-simulation.streamlit.app
+🔗 **Underlying Code:** https://github.com/Rachel-Sholder/JAM-Streamlit
 
 ---
 
